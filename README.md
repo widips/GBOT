@@ -1,9 +1,9 @@
 # Growtopia Gbot New!!
 **Gbot - An advanced Growtopia Multibotting Software**
 
--Project Name: Gbot
--Initial Release Version: 1.1.0
--Release Date: NULL
+-**Project Name: Gbot**
+- **Initial Release Version: 1.1.0**
+- **Release Date: NULL**
 
 
 # **CUrrenT VErsioN**
